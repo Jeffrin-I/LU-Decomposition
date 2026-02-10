@@ -20,7 +20,7 @@ To write a program to find the LU Decomposition of a matrix.
 #### Step 1: Import the required modules numpy and scipy.linalg.lu_factor, lu_solve.
 #### Step 2: Read the coefficient matrix and constant matrix, then convert them into NumPy arrays.
 #### Step 3: Use lu_factor() to factorize the matrix and lu_solve() to compute the solution.
-### Step 4: Print the solution vector X and end the program.
+#### Step 4: Print the solution vector X and end the program.
 
 
 ## Program:
